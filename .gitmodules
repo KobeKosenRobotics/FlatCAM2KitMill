@@ -1,0 +1,3 @@
+[submodule "GcodeParser"]
+	path = GcodeParser
+	url = git@github.com:atomon/GcodeParser.git
